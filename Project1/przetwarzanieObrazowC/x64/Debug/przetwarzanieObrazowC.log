@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\d7ag0\OneDrive\Dokumenty\NokiaPractice\przetwarzanieObrazowC\przetwarzanieObrazowC\Source.c(54,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\d7ag0\OneDrive\Dokumenty\NokiaPractice\przetwarzanieObrazowC\przetwarzanieObrazowC\Source.c(168,16): warning C4133: '=': incompatible types - from 'int *' to 'image *'
+  przetwarzanieObrazowC.vcxproj -> C:\Users\d7ag0\OneDrive\Dokumenty\NokiaPractice\przetwarzanieObrazowC\x64\Debug\przetwarzanieObrazowC.exe
